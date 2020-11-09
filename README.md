@@ -8,4 +8,5 @@ I'm Fran Linares, Front-end developer and video creator
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can't live without nutella
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
