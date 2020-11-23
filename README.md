@@ -2,7 +2,7 @@
 
 Front-end developer and Content creator
 
-- 🔭 I’m currently looking for new Job Opportunities
+- 🔭 I’m currently working for MEDtalks Spain
 - 🌱 I’m currently learning Vue.js 
 - 📫 How to reach me: franlinaresgorria@gmail.com
 - 😄 Pronouns: he/him
