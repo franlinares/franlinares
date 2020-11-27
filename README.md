@@ -8,5 +8,4 @@ Front-end developer and Content creator
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can't live without nutella
 
-
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=franlinares)](https://github.com/anuraghazra/github-readme-stats)
