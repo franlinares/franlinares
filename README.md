@@ -9,4 +9,4 @@ Front-end developer and Content creator
 - ⚡ Fun fact: I can't live without nutella
 
 ## Skills and Experience
-#CC6699
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
