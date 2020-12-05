@@ -8,6 +8,7 @@ Front-end developer and Content creator
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can't live without nutella
 
+ 
 
 <hr>
 
