@@ -9,7 +9,7 @@ Front-end developer and Content creator
 - ⚡ Fun fact: I can't live without nutella
 
 ### Technologies I work with
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" height='20' />
  
 
 <hr>
