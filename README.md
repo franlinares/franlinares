@@ -3,15 +3,16 @@
 Front-end developer and Content creator
 
 - 🔭 I’m currently working for MEDtalks Spain
-- 🌱 I’m currently learning Vue.js 
+- 🌱 I’m currently learning <img src="https://img.icons8.com/color/48/000000/vue-js.png" height='30'/>
 - 📫 How to reach me: franlinaresgorria@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can't live without nutella
 
 <br>
 
-#### Technologies I work with
+#### Working with
 <img src="https://img.icons8.com/color/48/000000/javascript.png" height='30' />
+<img src="https://img.icons8.com/color/48/000000/angularjs.png" height='30'/>
  
 
 <hr>
