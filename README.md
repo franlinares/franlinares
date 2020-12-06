@@ -11,7 +11,9 @@ Front-end developer and Content creator
 <br>
 
 #### Working with
-<img src="https://img.icons8.com/color/48/000000/javascript.png" height='30' /> <img src="https://img.icons8.com/color/48/000000/angularjs.png" height='30'/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" height='30' /> <img src="https://img.icons8.com/color/48/000000/angularjs.png" height='30'/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" height='30'/>
+
+<img src="https://img.icons8.com/color/48/000000/html-5.png"  height='30'/> <img src="https://img.icons8.com/color/48/000000/css3.png"  height='30'/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height='30'/>
  
 
 
