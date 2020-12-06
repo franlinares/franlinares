@@ -14,4 +14,10 @@ Front-end developer and Content creator
 
 #### Find me here:
 
-[<img src="https://img.icons8.com/fluent-systems-filled/48/000000/github.png" height='30'/>](https://github.com/franlinares)  [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height='30' target="blank"/>](https://www.linkedin.com/in/franciscolinaresgorria/)  
+<a href="https://github.com/franlinares" target="blank">
+  <img src="https://img.icons8.com/fluent-systems-filled/48/000000/github.png" height='30'/>
+</a>
+<a href="https://www.linkedin.com/in/franciscolinaresgorria/" target="blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height='30' target="blank"/>
+</a>  
+
