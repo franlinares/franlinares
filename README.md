@@ -2,8 +2,8 @@
 
 Front-end developer and Content creator
 
-- 🔭 I’m currently working for MEDtalks Spain
-- 🌱 I’m currently learning Vue.js
+- 🔭 I’m currently working for INNOCV
+- 🌱 I’m currently learning React.
 - 📫 How to reach me: franlinaresgorria@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can't live without nutella
